@@ -1,2 +1,2 @@
-# College-Recommender-system
- 
+# University Predictor System
+ University Predictor System
